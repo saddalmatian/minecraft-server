@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:wooded_badlands": "2021-12-19 21:28:28 +0700"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}

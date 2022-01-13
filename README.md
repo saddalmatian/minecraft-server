@@ -7,5 +7,5 @@ I locked everyone with bedrock wait til the day we want to unite again
 -> Init ngrok tunnel\
 ngrok tcp -region ap 
 
--> Start server with no GUI
+-> Start server with no GUI\
 java -jar server.jar nogui
